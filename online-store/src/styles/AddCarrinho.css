@@ -1,0 +1,17 @@
+.bt-container {
+  align-items: center;
+  background: #1d3557;
+  border-radius: 3px;
+  color: white;
+  cursor: pointer;
+  display: flex;
+  font-weight: 500;
+  height: 50px;
+  justify-content: center;
+  margin: 5px;
+  padding: 0 10px;
+}
+
+.btn-container-cart {
+  display: flex;
+}
