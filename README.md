@@ -132,9 +132,9 @@ Desenvolvimento de uma aplicação com filtros de planetas do universo de Star W
 **Habilidades**
 
   - Utilizar a Context API do React para gerenciamento de estado.
-  - Utilizar o React Hook useState;
-  - Utilizar o React Hook useEffect;
-  - Utilizar o React Hook useContext;
+  - Utilizar o React Hook useState.
+  - Utilizar o React Hook useEffect.
+  - Utilizar o React Hook useContext.
   - Criar Hooks customizados.
 
 </br>
