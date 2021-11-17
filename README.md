@@ -4,7 +4,7 @@ Trybe - Turma 14 A
 ---
 
 ### Projetos
-- [x] Movie Card Library(#movie-card-library)
+- [x] [Movie Card Library](#movie-card-library)
 - [x] Movie Card Library Stateful(#)
 - [x] Trybetunes(#)
 - [x] Online Store(#)
