@@ -77,3 +77,34 @@ Desenvolvimento de uma versão simplificada de uma loja online para prática de 
 </br>
 
 ---
+
+### React Testing Library
+
+Desenvolvimento de testes para uma aplicação React.
+
+**Habilidades**
+
+  - Utilizar os seletores (queries) da React-Testing-Library em testes automatizados.
+  - Simular eventos com a React-Testing-Library em testes automatizados.
+  - Testar fluxos lógicos assíncronos com a React-Testing-Library.
+  - Escrever testes que permitam a refatoração da estrutura dos componentes da aplicação sem necessidade de serem alterados.
+  - Criar mocks de APIs utilizando fetch.
+  -Testar inputs.
+  
+</br>
+
+---
+
+### Trybewallet
+
+Desenvolver uma carteira de controle de gastos com conversor de moedas capaz de: adicionar, remover e editar um gasto, visualizar uma tabela com os gastos e converter o total de gastos para uma moeda de escolha.
+
+**Habilidades**
+
+  - Conectar o Redux aos componentes React.
+  - Criar store, reducers e actions no Redux.
+  - Utilizar dispatchers e actions assíncronas no Redux.
+  
+</br>
+
+---
