@@ -1,0 +1,102 @@
+.login-container {
+  align-items: center;
+  box-sizing: border-box;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  padding: 0 32px;
+}
+
+.main-content {
+  border: 1px solid #a0a0ac;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  // height: 500px;
+  max-width: 380px;
+  padding: 20px;
+  text-align: center;
+  width: 100%;
+
+  img {
+    margin: 10px;
+    height: 100px;
+  }
+}
+
+.login-form {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+
+  > input {
+    background: white;
+    border: 1px solid #a0a0ac;
+    border-radius: 5px;
+    height: 50px;
+    margin-top: 10px;
+    padding: 0 16px;
+    width: 100%;
+  }
+
+  > button {
+    background: #4d908e;
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    height: 50px;
+    margin-top: 30px;
+    width: 100%;
+  }
+
+  > button:disabled {
+    filter: brightness(0.85);
+    cursor: not-allowed;
+  }
+}
+
+.sm-text {
+  align-items: center;
+  color: #a0a0ac;
+  display: flex;
+  flex-direction: row;
+  font-size: 14px;
+  margin: 32px 0;
+  
+  &::before {
+    content: '';
+    background: #a0a0ac;
+    content: '';
+    flex: 1;
+    height: 0.5px;
+    margin-right: 10px;
+  }
+
+  &::after {
+    content: '';
+    background: #a0a0ac;
+    content: '';
+    flex: 1;
+    height: 0.5px;
+    margin-left: 10px;
+  }
+}
+
+.create-account-button {
+  background: white;
+  border: 1px solid #ff9100;
+  border-radius: 5px;
+  color: #ff9100;
+  cursor: pointer;
+  height: 50px;
+  width: 100%;
+
+  &:hover {
+    color: white;
+    background: #ff9100;
+  }
+}
+
+
+
