@@ -8,7 +8,7 @@
 - [x] [Trybewallet](#trybewallet)
 - [x] [Trivia Game](#trivia-game)
 - [x] [Star Wars Planets](#star-wars-planets)
-- [x] [Recipes App](#recipes-app)
+- [ ] [Recipes App](#recipes-app)
 
 *Os projetos estão em branchs individuais.
 
@@ -72,7 +72,7 @@ Desenvolvimento de uma versão simplificada de uma loja online para prática de 
   - Trabalhar em equipes utilizando Kanban ou Scrum de maneira eficaz.
   - Praticar todas as habilidades desenvolvidas até agora no módulo de Front-End.
 
-*Grupo: Bernardo Notargiacomo, Gabriel Kleber, Gabriel Pinheiro, Hugo Emannuel e João Victor Rodrigues.
+_Grupo: Bernardo Notargiacomo, Gabriel Kleber, Gabriel Pinheiro, Hugo Emannuel e João Victor Rodrigues._
 
 </br>
 
@@ -105,6 +105,38 @@ Desenvolver uma carteira de controle de gastos com conversor de moedas capaz de:
   - Criar store, reducers e actions no Redux.
   - Utilizar dispatchers e actions assíncronas no Redux.
   
+</br>
+
+---
+
+### Trivia Game
+
+Criação de um jogo de perguntas e respostas utilizando React e Redux e o desenvolvimento em grupo de suas funcionalidades de acordo com as demandas definidas em um quadro Kanban. O usuário será capaz de: logar no jogo e ter sua foto associada ao perfil de usuário, em 30 segundos escolher uma das respostas para cada uma das perguntas apresentadas, ao final do tempo se nenhuma resposta for escolhida ela será considerada errada, ser redirecionado após 5 perguntas respondidas para a tela de score, visualizar a página de ranking ao final de cada jogo.
+
+**Habilidades**
+
+  - Conectar o Redux aos componentes React.
+  - Criar store, reducers e actions no Redux.
+  - Utilizar dispatchers e actions assíncronas no Redux.
+
+_Grupo: Bernardo Notargiacomo, Fernando Monteiro, Matheus Pozett, Pally Oliveira, Saulo Lima._
+
+</br>
+
+---
+
+### Star Wars Planets
+
+Desenvolvimento de uma aplicação com filtros de planetas do universo de Star Wars usando Context API e Hooks.
+
+**Habilidades**
+
+  - Utilizar a Context API do React para gerenciamento de estado.
+  - Utilizar o React Hook useState;
+  - Utilizar o React Hook useEffect;
+  - Utilizar o React Hook useContext;
+  - Criar Hooks customizados.
+
 </br>
 
 ---
