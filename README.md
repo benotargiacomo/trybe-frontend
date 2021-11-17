@@ -8,7 +8,7 @@
 - [x] [Trybewallet](#trybewallet)
 - [x] [Trivia Game](#trivia-game)
 - [x] [Star Wars Planets](#star-wars-planets)
-- [ ] [Recipes App](#recipes-app)
+- [x] [Recipes App](#recipes-app)
 
 *Os projetos estão em branchs individuais.
 
@@ -70,7 +70,7 @@ Desenvolvimento de uma versão simplificada de uma loja online para prática de 
   - Entender o que é Kanban.
   - Entender o que é Scrum.
   - Trabalhar em equipes utilizando Kanban ou Scrum de maneira eficaz.
-  - Praticar todas as habilidades desenvolvidas até agora no módulo de Front-End.
+  - Praticar todas as habilidades desenvolvidas até agora no módulo de Front-end.
 
 _Grupo: Bernardo Notargiacomo, Gabriel Kleber, Gabriel Pinheiro, Hugo Emannuel e João Victor Rodrigues._
 
@@ -136,6 +136,20 @@ Desenvolvimento de uma aplicação com filtros de planetas do universo de Star W
   - Utilizar o React Hook useEffect;
   - Utilizar o React Hook useContext;
   - Criar Hooks customizados.
+
+</br>
+
+---
+
+### Recipes App
+
+Desenvolver um app de receitas capaz de: ver, buscar, filtrar, favoritar e acompanhar o processo de preparação de receitas e drinks.
+
+**Habilidades**
+
+  - Utilizar todos os conhecimentos acumulados no módulo de Front-end.
+
+_Grupo: Arthur Palomo, Bernardo Notargiacomo, Gustavo Anselmo, Isadora Bayma, Walmir Lucena._
 
 </br>
 
