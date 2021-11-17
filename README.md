@@ -8,7 +8,7 @@
 - [x] [Trybewallet](#trybewallet)
 - [x] [Trivia Game](#trivia-game)
 - [x] [Star Wars Planets](#star-wars-planets)
-- [x] [Recipes App](#recipes-app)
+- [ ] [Recipes App](#recipes-app)
 
 *Os projetos estão em branchs individuais.
 
