@@ -8,7 +8,7 @@
 - [x] [Trybewallet](#trybewallet)
 - [x] [Trivia Game](#trivia-game)
 - [x] [Star Wars Planets](#star-wars-planets)
-- [ ] [Recipes App](#recipes-app)
+- [x] [Recipes App](#recipes-app)
 
 *Os projetos estão em branchs individuais.
 
@@ -55,6 +55,24 @@ Desenvolvimento de uma aplicação de música capaz de: fazer login, pesquisar p
   - Utilizar os ciclos de vida de um componente React;
   - Utilizar a função setState.
   - Criar rotas e utilizar os componentes BrowserRouter, Switch, Link e Redirect.
+
+</br>
+
+---
+
+### Online Store
+
+Desenvolvimento de uma versão simplificada de uma loja online para prática de metodologias ágeis. A aplicação será capaz de: buscar produtos por termos e categorias, adicionar e remover produtos de um carrinho de compras em diferentes quantidades, visualizar detalhes e avaliações de um produto, criar novas avaliações e finalizar a compra(simulação).
+
+**Habilidades**
+
+  - Entender o que são Métodos Ágeis.
+  - Entender o que é Kanban.
+  - Entender o que é Scrum.
+  - Trabalhar em equipes utilizando Kanban ou Scrum de maneira eficaz.
+  - Praticar todas as habilidades desenvolvidas até agora no módulo de Front-End.
+
+*Grupo: Bernardo Notargiacomo, Gabriel Kleber, Gabriel Pinheiro, Hugo Emannuel e João Victor Rodrigues.
 
 </br>
 
