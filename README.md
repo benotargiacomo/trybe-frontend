@@ -25,8 +25,6 @@ Desenvolvimento uma aplicação React que seja composta por um conjunto de compo
   - Criar múltiplos componentes React, utilizar props e fazer composição de componentes corretamente.
   - Utilizar PropTypes para checar o tipo e garantir a presença de props obrigatórias no uso de um componente.
 
-</br>
-
 ---
 
 ### Movie Card Library Stateful
@@ -41,8 +39,6 @@ Desenvolvimento de uma aplicação que consiste em uma biblioteca de cartões de
   - Criar formulários utilizando sintaxe JSX com as tags: input, textarea, select, form.
   - Transmitir informações de componentes filhos para componentes pais via callbacks.
 
-</br>
-
 ---
 
 ### Trybetunes
@@ -55,8 +51,6 @@ Desenvolvimento de uma aplicação de música capaz de: fazer login, pesquisar p
   - Utilizar os ciclos de vida de um componente React;
   - Utilizar a função setState.
   - Criar rotas e utilizar os componentes BrowserRouter, Switch, Link e Redirect.
-
-</br>
 
 ---
 
@@ -74,8 +68,6 @@ Desenvolvimento de uma versão simplificada de uma loja online para prática de 
 
 _Grupo: Bernardo Notargiacomo, Gabriel Kleber, Gabriel Pinheiro, Hugo Emannuel e João Victor Rodrigues._
 
-</br>
-
 ---
 
 ### React Testing Library
@@ -91,8 +83,6 @@ Desenvolvimento de testes para uma aplicação React.
   - Criar mocks de APIs utilizando fetch.
   -Testar inputs.
   
-</br>
-
 ---
 
 ### Trybewallet
@@ -105,8 +95,6 @@ Desenvolver uma carteira de controle de gastos com conversor de moedas capaz de:
   - Criar store, reducers e actions no Redux.
   - Utilizar dispatchers e actions assíncronas no Redux.
   
-</br>
-
 ---
 
 ### Trivia Game
@@ -120,8 +108,6 @@ Criação de um jogo de perguntas e respostas utilizando React e Redux e o desen
   - Utilizar dispatchers e actions assíncronas no Redux.
 
 _Grupo: Bernardo Notargiacomo, Fernando Monteiro, Matheus Pozett, Pally Oliveira, Saulo Lima._
-
-</br>
 
 ---
 
@@ -137,8 +123,6 @@ Desenvolvimento de uma aplicação com filtros de planetas do universo de Star W
   - Utilizar o React Hook useContext.
   - Criar Hooks customizados.
 
-</br>
-
 ---
 
 ### Recipes App
@@ -150,7 +134,5 @@ Desenvolver um app de receitas capaz de: ver, buscar, filtrar, favoritar e acomp
   - Utilizar todos os conhecimentos acumulados no módulo de Front-end.
 
 _Grupo: Arthur Palomo, Bernardo Notargiacomo, Gustavo Anselmo, Isadora Bayma, Walmir Lucena._
-
-</br>
 
 ---
