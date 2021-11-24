@@ -11,6 +11,7 @@
 - [ ] [Recipes App](#recipes-app)
 
 *Os projetos estão em branchs individuais.
+
 **Como forma de estudo e aprendizado, estou reconstruindo todos projetos utilizando typescript antes de fazer o deploy.
 
 ---
