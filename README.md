@@ -1,4 +1,4 @@
-# MÓDULO DE FRONT END
+# FRONT END
 
 - [x] [Movie Card Library](#movie-card-library)
 - [x] [Movie Card Library Stateful](#movie-card-library-stateful)
@@ -11,6 +11,7 @@
 - [ ] [Recipes App](#recipes-app)
 
 *Os projetos estão em branchs individuais.
+**Como forma de estudo e aprendizado, estou reconstruindo todos projetos utilizando typescript antes de fazer o deploy.
 
 ---
 
@@ -136,3 +137,5 @@ Desenvolver um app de receitas capaz de: ver, buscar, filtrar, favoritar e acomp
 _Grupo: Arthur Palomo, Bernardo Notargiacomo, Gustavo Anselmo, Isadora Bayma, Walmir Lucena._
 
 ---
+
+<!-- Data de conclusão: 22/11/2021 -->
