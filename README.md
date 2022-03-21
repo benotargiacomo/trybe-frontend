@@ -1,4 +1,4 @@
-# FRONT END
+### Projetos de FRONT-END
 
 - [x] [Movie Card Library](#movie-card-library)
 - [x] [Movie Card Library Stateful](#movie-card-library-stateful)
@@ -9,8 +9,6 @@
 - [x] [Trivia Game](#trivia-game)
 - [x] [Star Wars Planets](#star-wars-planets)
 - [x] [Recipes App](#recipes-app)
-
-*Os projetos estão em branchs individuais.
 
 ---
 
