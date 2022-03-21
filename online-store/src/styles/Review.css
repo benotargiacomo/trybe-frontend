@@ -1,0 +1,15 @@
+.form-container {
+  display: flex;
+}
+
+.rating-container {
+  display: flex;
+}
+
+.star-white {
+  fill: white;
+}
+
+.star-yellow {
+  fill: yellow;
+}
